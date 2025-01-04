@@ -1,4 +1,5 @@
 # 📊 Amazon Sales Dashboard Report
+<img width="1587" alt="Amazon" src="https://github.com/user-attachments/assets/b785f72c-d5ce-4d3d-8cd9-8b1a96fd0060" />
 
 Welcome to the **Amazon Sales Report Dashboard**! This visual and data-rich dashboard provides insights into the performance of products sold through Amazon. Below is a detailed breakdown of what this dashboard captures. 🚀
 
